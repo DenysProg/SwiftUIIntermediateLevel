@@ -12,6 +12,7 @@
 		C221102829BF01B500378340 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C221102729BF01B500378340 /* Assets.xcassets */; };
 		C221102B29BF01B500378340 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C221102A29BF01B500378340 /* Preview Assets.xcassets */; };
 		C221103229BF02EE00378340 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C221103129BF02EE00378340 /* LongPressGestureBootcamp.swift */; };
+		C221103429BF181600378340 /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C221103329BF181600378340 /* MagnificationGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		C221102729BF01B500378340 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C221102A29BF01B500378340 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C221103129BF02EE00378340 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
+		C221103329BF181600378340 /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				C221102329BF01B400378340 /* SwiftUIIntermediateLevelApp.swift */,
 				C221102529BF01B400378340 /* ContentView.swift */,
 				C221103129BF02EE00378340 /* LongPressGestureBootcamp.swift */,
+				C221103329BF181600378340 /* MagnificationGestureBootcamp.swift */,
 				C221102729BF01B500378340 /* Assets.xcassets */,
 				C221102929BF01B500378340 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				C221102629BF01B400378340 /* ContentView.swift in Sources */,
 				C221102429BF01B400378340 /* SwiftUIIntermediateLevelApp.swift in Sources */,
+				C221103429BF181600378340 /* MagnificationGestureBootcamp.swift in Sources */,
 				C221103229BF02EE00378340 /* LongPressGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
