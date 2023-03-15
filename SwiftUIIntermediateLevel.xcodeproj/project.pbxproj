@@ -14,6 +14,10 @@
 		C221103229BF02EE00378340 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C221103129BF02EE00378340 /* LongPressGestureBootcamp.swift */; };
 		C221103429BF181600378340 /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C221103329BF181600378340 /* MagnificationGestureBootcamp.swift */; };
 		C221103629BF1FE900378340 /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C221103529BF1FE900378340 /* RotationGestureBootcamp.swift */; };
+		C22DD0F029C1A6BD00BA8E22 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22DD0EF29C1A6BD00BA8E22 /* DragGestureBootcamp.swift */; };
+		C22DD0F229C1ACE800BA8E22 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22DD0F129C1ACE800BA8E22 /* DragGestureBootcamp2.swift */; };
+		C22DD0F429C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22DD0F329C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift */; };
+		C22DD0F629C1BD4700BA8E22 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22DD0F529C1BD4700BA8E22 /* GeometryReaderBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +29,10 @@
 		C221103129BF02EE00378340 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		C221103329BF181600378340 /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 		C221103529BF1FE900378340 /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
+		C22DD0EF29C1A6BD00BA8E22 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
+		C22DD0F129C1ACE800BA8E22 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
+		C22DD0F329C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
+		C22DD0F529C1BD4700BA8E22 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +70,10 @@
 				C221103129BF02EE00378340 /* LongPressGestureBootcamp.swift */,
 				C221103329BF181600378340 /* MagnificationGestureBootcamp.swift */,
 				C221103529BF1FE900378340 /* RotationGestureBootcamp.swift */,
+				C22DD0EF29C1A6BD00BA8E22 /* DragGestureBootcamp.swift */,
+				C22DD0F129C1ACE800BA8E22 /* DragGestureBootcamp2.swift */,
+				C22DD0F329C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift */,
+				C22DD0F529C1BD4700BA8E22 /* GeometryReaderBootcamp.swift */,
 				C221102729BF01B500378340 /* Assets.xcassets */,
 				C221102929BF01B500378340 /* Preview Content */,
 			);
@@ -146,10 +158,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C22DD0F229C1ACE800BA8E22 /* DragGestureBootcamp2.swift in Sources */,
+				C22DD0F029C1A6BD00BA8E22 /* DragGestureBootcamp.swift in Sources */,
 				C221102629BF01B400378340 /* ContentView.swift in Sources */,
 				C221102429BF01B400378340 /* SwiftUIIntermediateLevelApp.swift in Sources */,
 				C221103429BF181600378340 /* MagnificationGestureBootcamp.swift in Sources */,
 				C221103229BF02EE00378340 /* LongPressGestureBootcamp.swift in Sources */,
+				C22DD0F629C1BD4700BA8E22 /* GeometryReaderBootcamp.swift in Sources */,
+				C22DD0F429C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift in Sources */,
 				C221103629BF1FE900378340 /* RotationGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
