@@ -18,6 +18,7 @@
 		C22DD0F229C1ACE800BA8E22 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22DD0F129C1ACE800BA8E22 /* DragGestureBootcamp2.swift */; };
 		C22DD0F429C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22DD0F329C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift */; };
 		C22DD0F629C1BD4700BA8E22 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22DD0F529C1BD4700BA8E22 /* GeometryReaderBootcamp.swift */; };
+		C22DD0F829C1C50B00BA8E22 /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22DD0F729C1C50B00BA8E22 /* MultipleSheetsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		C22DD0F129C1ACE800BA8E22 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		C22DD0F329C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		C22DD0F529C1BD4700BA8E22 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
+		C22DD0F729C1C50B00BA8E22 /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				C22DD0F129C1ACE800BA8E22 /* DragGestureBootcamp2.swift */,
 				C22DD0F329C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift */,
 				C22DD0F529C1BD4700BA8E22 /* GeometryReaderBootcamp.swift */,
+				C22DD0F729C1C50B00BA8E22 /* MultipleSheetsBootcamp.swift */,
 				C221102729BF01B500378340 /* Assets.xcassets */,
 				C221102929BF01B500378340 /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 				C22DD0F029C1A6BD00BA8E22 /* DragGestureBootcamp.swift in Sources */,
 				C221102629BF01B400378340 /* ContentView.swift in Sources */,
 				C221102429BF01B400378340 /* SwiftUIIntermediateLevelApp.swift in Sources */,
+				C22DD0F829C1C50B00BA8E22 /* MultipleSheetsBootcamp.swift in Sources */,
 				C221103429BF181600378340 /* MagnificationGestureBootcamp.swift in Sources */,
 				C221103229BF02EE00378340 /* LongPressGestureBootcamp.swift in Sources */,
 				C22DD0F629C1BD4700BA8E22 /* GeometryReaderBootcamp.swift in Sources */,
