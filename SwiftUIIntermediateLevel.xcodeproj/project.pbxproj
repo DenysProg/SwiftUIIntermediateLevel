@@ -19,6 +19,10 @@
 		C22DD0F429C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22DD0F329C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift */; };
 		C22DD0F629C1BD4700BA8E22 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22DD0F529C1BD4700BA8E22 /* GeometryReaderBootcamp.swift */; };
 		C22DD0F829C1C50B00BA8E22 /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22DD0F729C1C50B00BA8E22 /* MultipleSheetsBootcamp.swift */; };
+		C2FB9DAE29C30974007D6DF1 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FB9DAD29C30974007D6DF1 /* MaskBootcamp.swift */; };
+		C2FB9DB029C30F60007D6DF1 /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FB9DAF29C30F60007D6DF1 /* SoundsBootcamp.swift */; };
+		C2FB9DB229C396F5007D6DF1 /* sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C2FB9DB129C396F5007D6DF1 /* sound.mp3 */; };
+		C2FB9DB429C39740007D6DF1 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C2FB9DB329C39740007D6DF1 /* badum.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +39,10 @@
 		C22DD0F329C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		C22DD0F529C1BD4700BA8E22 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		C22DD0F729C1C50B00BA8E22 /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
+		C2FB9DAD29C30974007D6DF1 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
+		C2FB9DAF29C30F60007D6DF1 /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
+		C2FB9DB129C396F5007D6DF1 /* sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound.mp3; sourceTree = "<group>"; };
+		C2FB9DB329C39740007D6DF1 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +85,9 @@
 				C22DD0F329C1B57400BA8E22 /* ScrollViewReaderBootcamp.swift */,
 				C22DD0F529C1BD4700BA8E22 /* GeometryReaderBootcamp.swift */,
 				C22DD0F729C1C50B00BA8E22 /* MultipleSheetsBootcamp.swift */,
+				C2FB9DAD29C30974007D6DF1 /* MaskBootcamp.swift */,
+				C2FB9DAF29C30F60007D6DF1 /* SoundsBootcamp.swift */,
+				C2FB9DB529C39745007D6DF1 /* Sound */,
 				C221102729BF01B500378340 /* Assets.xcassets */,
 				C221102929BF01B500378340 /* Preview Content */,
 			);
@@ -89,6 +100,15 @@
 				C221102A29BF01B500378340 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C2FB9DB529C39745007D6DF1 /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+				C2FB9DB129C396F5007D6DF1 /* sound.mp3 */,
+				C2FB9DB329C39740007D6DF1 /* badum.mp3 */,
+			);
+			path = Sound;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -149,7 +169,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2FB9DB429C39740007D6DF1 /* badum.mp3 in Resources */,
 				C221102B29BF01B500378340 /* Preview Assets.xcassets in Resources */,
+				C2FB9DB229C396F5007D6DF1 /* sound.mp3 in Resources */,
 				C221102829BF01B500378340 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -161,7 +183,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2FB9DB029C30F60007D6DF1 /* SoundsBootcamp.swift in Sources */,
 				C22DD0F229C1ACE800BA8E22 /* DragGestureBootcamp2.swift in Sources */,
+				C2FB9DAE29C30974007D6DF1 /* MaskBootcamp.swift in Sources */,
 				C22DD0F029C1A6BD00BA8E22 /* DragGestureBootcamp.swift in Sources */,
 				C221102629BF01B400378340 /* ContentView.swift in Sources */,
 				C221102429BF01B400378340 /* SwiftUIIntermediateLevelApp.swift in Sources */,
