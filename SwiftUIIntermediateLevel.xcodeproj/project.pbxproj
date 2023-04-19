@@ -32,6 +32,8 @@
 		C2DAB5AD29C998E600ABF618 /* ArraysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DAB5AC29C998E600ABF618 /* ArraysBootcamp.swift */; };
 		C2E0F10E29E57BA400670DEE /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E0F10D29E57BA400670DEE /* BackgroundThreadBootcamp.swift */; };
 		C2E0F11029E5992000670DEE /* WeakSelfbootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E0F10F29E5992000670DEE /* WeakSelfbootcamp.swift */; };
+		C2F5623329E7CE46007E6B74 /* DownloadWithEscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F5623229E7CE46007E6B74 /* DownloadWithEscapingBootcamp.swift */; };
+		C2F5623529E7DAE3007E6B74 /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F5623429E7DAE3007E6B74 /* DownloadWithCombine.swift */; };
 		C2FB9DAE29C30974007D6DF1 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FB9DAD29C30974007D6DF1 /* MaskBootcamp.swift */; };
 		C2FB9DB029C30F60007D6DF1 /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FB9DAF29C30F60007D6DF1 /* SoundsBootcamp.swift */; };
 		C2FB9DB229C396F5007D6DF1 /* sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C2FB9DB129C396F5007D6DF1 /* sound.mp3 */; };
@@ -65,6 +67,8 @@
 		C2DAB5AC29C998E600ABF618 /* ArraysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootcamp.swift; sourceTree = "<group>"; };
 		C2E0F10D29E57BA400670DEE /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		C2E0F10F29E5992000670DEE /* WeakSelfbootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfbootcamp.swift; sourceTree = "<group>"; };
+		C2F5623229E7CE46007E6B74 /* DownloadWithEscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingBootcamp.swift; sourceTree = "<group>"; };
+		C2F5623429E7DAE3007E6B74 /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
 		C2FB9DAD29C30974007D6DF1 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 		C2FB9DAF29C30F60007D6DF1 /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
 		C2FB9DB129C396F5007D6DF1 /* sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound.mp3; sourceTree = "<group>"; };
@@ -126,6 +130,8 @@
 				C2886E8B29E68C5C00E08B1E /* TypealiasBootcamp.swift */,
 				C2886E8D29E690CC00E08B1E /* EscapingBootcamp.swift */,
 				C2886E8F29E6ED8300E08B1E /* CodableBootcamp.swift */,
+				C2F5623229E7CE46007E6B74 /* DownloadWithEscapingBootcamp.swift */,
+				C2F5623429E7DAE3007E6B74 /* DownloadWithCombine.swift */,
 				C2FB9DB529C39745007D6DF1 /* Sound */,
 				C221102729BF01B500378340 /* Assets.xcassets */,
 				C221102929BF01B500378340 /* Preview Content */,
@@ -224,6 +230,7 @@
 			files = (
 				C2886E8E29E690CC00E08B1E /* EscapingBootcamp.swift in Sources */,
 				C253119429E3E5F3005C5091 /* FruitsContainer.xcdatamodeld in Sources */,
+				C2F5623529E7DAE3007E6B74 /* DownloadWithCombine.swift in Sources */,
 				C2C4B0C929CB46EC008B29B1 /* CoreDataRelationshipBootcamp.swift in Sources */,
 				C213884329C8B5A500FE8191 /* HashableBootcamp.swift in Sources */,
 				C2E0F10E29E57BA400670DEE /* BackgroundThreadBootcamp.swift in Sources */,
@@ -238,6 +245,7 @@
 				C213884129C853FC00FE8191 /* LocalNotificationBootcamp.swift in Sources */,
 				C2886E8C29E68C5C00E08B1E /* TypealiasBootcamp.swift in Sources */,
 				C221102429BF01B400378340 /* SwiftUIIntermediateLevelApp.swift in Sources */,
+				C2F5623329E7CE46007E6B74 /* DownloadWithEscapingBootcamp.swift in Sources */,
 				C2886E9029E6ED8300E08B1E /* CodableBootcamp.swift in Sources */,
 				C22DD0F829C1C50B00BA8E22 /* MultipleSheetsBootcamp.swift in Sources */,
 				C221103429BF181600378340 /* MagnificationGestureBootcamp.swift in Sources */,
